@@ -49,8 +49,7 @@ We aim to:
 
 For any questions, access requests, or support, please reach out to:
 
-- **Cloud Platform Team** – cloud-platform@hcltech.com  
-- **DevOps Center of Excellence** – devops-coe@hcltech.com  
+- **DevOps Center of Excellence** – btc@hcltech.com  
 
 ---
 
